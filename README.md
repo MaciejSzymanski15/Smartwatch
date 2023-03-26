@@ -1,5 +1,6 @@
 # DesignLaboratoryEiT
 Projekt wykonali: Dominik Budzyński i Maciej Szymański.
+
 16.10.2022
 W pierwszym tygodniu pracy nad projektem, zapoznaliśmy się z środowiskiem programistycznym oraz nowym dla nas CircuitPythonem.
 Posiłkowaliśmy się poniższym filmem w serwisie YouTube
